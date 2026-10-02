@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "The Hunt — Field Scanner",
+  "short_name": "The Hunt",
+  "description": "A local-first field guide for exploring folklore and tracking mysterious creatures.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b0e13",
+  "theme_color": "#0a0e14",
+  "icons": [
+    {
+      "src": "icons/hunt-mark.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
